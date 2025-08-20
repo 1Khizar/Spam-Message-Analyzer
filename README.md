@@ -6,9 +6,9 @@ A Streamlit-based web application for detecting spam messages using machine lear
 
  **Text Preprocessing:** Tokenization, stopword removal, and cleaning using NLTK.
 
- **Spam Detection:**: Predicts whether a message is Spam or Not Spam using a trained ML model.
+ **Spam Detection:** Predicts whether a message is Spam or Not Spam using a trained ML model.
 
-##  Data Visualization:
+ **Data Visualization:**
 
 Word frequency bar charts
 
@@ -37,14 +37,6 @@ Confidence gauge meter
 
 **NumPy**
  – Numerical operations
-
-## 📂 Project Structure
-📁 spam-analyzer
-│── app.py                # Main Streamlit app
-│── model.pkl             # Trained ML model (pickle file)
-│── vectorizer.pkl        # TF-IDF/CountVectorizer (pickle file)
-│── requirements.txt      # Required Python packages
-│── README.md             # Project documentation
 
 ## ⚙️ Installation
 
