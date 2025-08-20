@@ -1,49 +1,37 @@
-## 📩 Spam Message Analyzer
+# 📩 Spam Message Analyzer
 
-A Streamlit-based web application for detecting spam messages using machine learning and NLTP(Natural Language Preprocessing).
+A **Streamlit-based web application** for detecting spam messages using **Machine Learning** and **Natural Language Processing (NLP)**.
 
+---
 
-## Features:
+## Features
 
- **Text Preprocessing:** Tokenization, stopword removal, and cleaning using NLTK.
+- **Text Preprocessing:** Tokenization, stopword removal, and cleaning using NLTK.  
+- **Spam Detection:** Predicts whether a message is **Spam** or **Not Spam** using a trained ML model.  
+- **Data Visualization:**  
+  - Word frequency bar charts  
+  - Spam vs Ham distribution pie chart  
+  - Confidence gauge meter  
+- **📁 File Upload:** Upload multiple text files (.txt) for batch spam analysis.
 
- **Spam Detection:** Predicts whether a message is Spam or Not Spam using a trained ML model.
-
- **Data Visualization:**
-
-Word frequency bar charts
-
-Spam vs Ham distribution pie chart
-
-Confidence gauge meter
-
-**📁File Upload:** Upload multiple text files (.txt) for batch spam analysis.
-
+---
 
 ## Tech Stack
 
-**Python** 
+- **Python** – Core programming language  
+- **Streamlit** – Web app UI framework  
+- **NLP** – Natural Language Processing  
+- **Scikit-learn** – ML model training & inference  
+- **Plotly** – Interactive visualizations  
+- **NumPy** – Numerical operations
 
-**Streamlit**
- – UI framework
-
-**NLP**
- – Natural Language preprocessing
-
-**Scikit-learn**
- – ML model training & inference
-
-**Plotly**
- – Interactive visualizations
-
-**NumPy**
- – Numerical operations
-
+---
 
 ## ⚙️ Installation
 
-Clone the repository
+**Clone the repository**
 
+```bash
 git clone https://github.com/your-username/spam-analyzer.git
 cd spam-analyzer
 
