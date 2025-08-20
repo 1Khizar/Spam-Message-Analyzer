@@ -1,6 +1,8 @@
 ## 📩 Spam Message Analyzer
 
-A Streamlit-based web application for detecting spam messages using machine learning and NLTK preprocessing.
+A Streamlit-based web application for detecting spam messages using machine learning and NLTP(Natural Language Preprocessing).
+
+
 
 ## Features:
 
