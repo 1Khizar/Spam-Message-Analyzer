@@ -3,7 +3,6 @@
 A Streamlit-based web application for detecting spam messages using machine learning and NLTP(Natural Language Preprocessing).
 
 
-
 ## Features:
 
  **Text Preprocessing:** Tokenization, stopword removal, and cleaning using NLTK.
@@ -39,6 +38,7 @@ Confidence gauge meter
 
 **NumPy**
  – Numerical operations
+
 
 ## ⚙️ Installation
 
